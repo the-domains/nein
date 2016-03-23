@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-23T06:13:32.686Z'
-dateModified: '2016-03-23T06:12:35.999Z'
+description: (die Schreibhand ist genauso beschissen wie die Schwielenhand)
+datePublished: '2016-03-23T06:24:20.952Z'
+dateModified: '2016-03-23T06:24:20.362Z'
 title: Eine Zeit in der Hölle
 author: []
+sourcePath: _posts/2016-03-23-eine-zeit-in-der-holle.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-eine-zeit-in-der-holle.md
-published: true
 url: eine-zeit-in-der-holle/index.html
 _type: Article
 
