@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nein]]></title>
+        <description><![CDATA[Nein]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 06:13:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eine Zeit in der Hölle]]></title>
+            <description><![CDATA[<article><h1>Eine Zeit in der Hölle</h1><p>(die Schreibhand ist genauso beschissen wie die Schwielenhand)</p></article>]]></description>
+            <link>undefinedeine-zeit-in-der-holle/index.html</link>
+            <guid isPermaLink="false">868cf413-08fc-45c9-8da7-676692d5a13a</guid>
+            <pubDate>Wed, 23 Mar 2016 06:13:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
